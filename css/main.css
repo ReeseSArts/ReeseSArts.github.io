@@ -44,3 +44,12 @@ img {
         margin: 10px 0;
     }
 }
+.video-container {
+    max-width: 100%;
+}
+
+.video-container iframe {
+    width: 100%;
+    aspect-ratio: 16 / 9;
+    border: 0;
+}
