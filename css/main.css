@@ -139,12 +139,8 @@ section {
 }
 
 .hero {
-    display: flex;
-    flex-direction: column;
-    justify-content: center;
-    align-items: center;
     text-align: center;
-    min-height: 40vh;
+    padding: 5rem 1rem;
 }
 
 /* ---------- Accessibility ---------- */
