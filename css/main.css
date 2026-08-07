@@ -53,3 +53,16 @@ img {
     aspect-ratio: 16 / 9;
     border: 0;
 }
+.container {
+    width: 90%;
+    max-width: 1200px;
+}
+
+img {
+    width: 100%;
+    height: auto;
+}
+
+.hero {
+    width: 80vw;
+}
